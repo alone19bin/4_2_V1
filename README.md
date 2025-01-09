@@ -11,9 +11,5 @@
 - Swagger/OpenAPI
 - Lombok
 
-## Требования
-- JDK 17
-- Maven
-- PostgreSQL
 
 
